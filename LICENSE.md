@@ -1,9 +1,9 @@
 # Legal Notice: Copyright and Terms of Use
 
-**© 2024 [Your Company Name]. All rights reserved.**
+**© 2026 AI&ML Department @ Software Academy. All rights reserved.**
 
 ### 1. Intellectual Property
-All materials contained within this repository—including but not limited to images, diagrams, illustrations, charts, and explanatory text—are the proprietary intellectual property of **[Your Company Name]**. These assets are specifically created for students enrolled in our paid courses.
+All materials contained within this repository—including but not limited to images, diagrams, illustrations, charts, and explanatory text—are the proprietary intellectual property of **AI&ML Department @ Software Academy**. These assets are specifically created for students enrolled in our paid courses.
 
 ### 2. Permitted Use
 By accessing this repository, you are granted a limited, non-exclusive license to:
